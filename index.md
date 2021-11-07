@@ -2,7 +2,7 @@
 
 This is an example of a static site built with Jekyll using some branding that indicates an affiliation with [TEN7](https://ten7.com/) but not a direct connection. This is [open source](https://github.com/ten7/static2.ten7.com), so you could use it yourself if you wanted to.
 
-# h1 Heading 8-)
+# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
