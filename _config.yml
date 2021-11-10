@@ -1,5 +1,5 @@
-title: Tractorbeam
-url: "https://tractorbeam.ten7.com"
+title: Another Static Site Template
+url: "https://static2.ten7.com"
 plugins:
     - jekyll-relative-links
     - jekyll-feed
@@ -10,43 +10,20 @@ relative_links:
 include:
     - index.md
 nav:
-    - title: "How To"
+    - title: "Start Here"
       is_mobile_nav_item: false
       subfolderitems:
           items:
-              - title: "Getting Started"
-                description: ""
-                url: "/setup.html"
-              - title: "Use"
-                description: ""
-                url: "/setup.html#use"
-              - title: "Configuration"
-                description: ""
-                url: "/setup.html#configuration"
-              - title: "Backing up databases"
-                description: ""
-                url: "/setup.html#backing-up-databases"
-              - title: "Backing up files"
-                description: ""
-                url: "/setup.html#backing-up-files"
-              - title: "Rolling directory backups"
-                description: ""
-                url: "/setup.html#rolling-directory-backups"
-              - title: "Deployment"
-                description: ""
-                url: "/setup.html#deployment"
-              - title: "Debugging"
-                description: ""
-                url: "/setup.html#debugging"
-    - title: "Support"
-      description: "Find the support you need"
-      url: "/support.html"
+              - title: "Page 1"
+                description: "Some description for page 1"
+                url: "/page1.html"
+              - title: "Page 2"
+                description: "A different thing for page 2"
+                url: "/page2.html"
+    - title: "Page 2"
+      description: "Page 2 repeated, that's ok"
+      url: "/page2.html"
       is_mobile_nav_item: true 
-    - title: "Github"
-      description: "Check out our Github"
-      url: "https://github.com/ten7/tractorbeam.ten7.com"
-      is_mobile_nav_item: true
-
 
 markdown: kramdown
 
