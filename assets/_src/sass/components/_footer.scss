@@ -5,8 +5,17 @@
 	font-weight: 300;
 	line-height: 75%;
 	line-height: 1.4;
-	padding: 2.8rem 5rem 2.6rem;
+	padding: 2.8rem 0 2.6rem;
 	
+	a span {
+		color: #fff;
+	}
+
+	a span:hover {
+		color: #fff;
+		text-decoration: underline;
+	}
+
 	a,
 	a:visited {
 		color: $link-color-footer;
@@ -17,11 +26,29 @@
 		text-decoration: underline;
 	}
 
+	&-container {
+		margin: 0 auto;
+		max-width: $footer-width;
+	}
+
 	&-header {
 		color: #fff;
 		font-size: 0.9375rem;
 		font-weight: 600;
 		padding-bottom: 1rem;
+
+		@include from($tablet) {
+			width: 25rem;
+		}
+	}
+
+	.column {
+		padding: 0.75rem 2.5rem;
+
+		@include mobile {
+			padding: 0.75rem 1.5rem;
+		}
+
 	}
 
 	.footer-logo {
@@ -34,15 +61,6 @@
 		top: 0.2em;
 	}
 	
-	a span {
-		color: #fff;
-	}
-
-	a span:hover {
-		color: #fff;
-		text-decoration: underline;
-	}
-
 	.ten7-link:hover {
 		text-decoration: none;
 	}

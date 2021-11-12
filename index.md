@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  Another Static Site Template
+title:  Another Site Template
 opener: Introduction
 ---
 
-This is Another Static Site Template for TEN7. Use this to create a static site that is affiliated with TEN7. There is also the original [Static Site Template](https://static2.ten7.com/) you coulud look at.
+This is Another Site Template for TEN7. Use this to create a static site that is affiliated with TEN7. There is also the original [Site Template](https://static1.ten7.com/) you coulud look at.
 
 Sites that use this template:
 * Tractorbeam -- [tractorbeam.ten7.com](https://tractorbeam.ten7.com/)
