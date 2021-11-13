@@ -1,4 +1,4 @@
-# Another Static Site Template
+# Another Site Template
 
 This is Another Site Template for TEN7. Use this to create a static site that is affiliated with TEN7. There is also the original [Site Template](https://static1.ten7.com/) you coulud look at.
 
