@@ -53,4 +53,4 @@ group:
           - source: webpack.config.js
             dest: webpack.config.js
       repos: |
-          ten7/computingforcovid@static2.ten7.com
+          ten7/computingforcovid.ten7.com@static2.ten7.com
