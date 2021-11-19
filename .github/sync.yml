@@ -1,0 +1,56 @@
+group:
+    - files:
+          - source: _includes/
+            dest: _includes/
+          - source: _layouts/
+            dest: _layouts/
+          - source: assets/_src/js/
+            dest: assets/_src/js/
+          - source: assets/_src/sass/
+            dest: assets/_src/sass/
+          - source: assets/css/
+            dest: assets/css/
+          - source: assets/fonts/
+            dest: assets/fonts/
+          - source: assets/js/
+            dest: assets/js/
+          - source: .eslintrc.js
+            dest: .eslintrc.js
+          - source: .gitignore
+            dest: .gitignore
+          - source: .stylelintrc.json
+            dest: .stylelintrc.json
+          - source: 404.html
+            dest: 404.html
+          - source: android-chrome-192x192.png
+            dest: android-chrome-192x192.png
+          - source: android-chrome-512x512.png
+            dest: android-chrome-512x512.png
+          - source: apple-touch-icon.png
+            dest: apple-touch-icon.png
+          - source: favicon-16x16.png
+            dest: favicon-16x16.png
+          - source: favicon-32x32.png
+            dest: favicon-32x32.png
+          - source: favicon.ico
+            dest: favicon.ico
+          - source: Gemfile
+            dest: Gemfile
+          - source: Gemfile.lock
+            dest: Gemfile.lock
+          - source: imagemin.js
+            dest: imagemin.js
+          - source: LICENSE
+            dest: LICENSE
+          - source: package-lock.json
+            dest: package-lock.json
+          - source: package.json
+            dest: package.json
+          - source: robots.txt
+            dest: robots.txt
+          - source: site.webmanifest
+            dest: site.webmanifest
+          - source: webpack.config.js
+            dest: webpack.config.js
+      repos: |
+          ten7/computingforcovid@static2.ten7.com
