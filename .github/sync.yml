@@ -54,5 +54,3 @@ group:
             dest: webpack.config.js
       repos: |
           ten7/computingforcovid.ten7.com@static2.ten7.com
-
-# test comment 2
