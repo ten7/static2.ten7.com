@@ -12,6 +12,8 @@ group:
             dest: assets/css/
           - source: assets/fonts/
             dest: assets/fonts/
+          - source: assets/icons/
+            dest: assets/icons/
           - source: assets/js/
             dest: assets/js/
           - source: .eslintrc.js
@@ -22,18 +24,6 @@ group:
             dest: .stylelintrc.json
           - source: 404.html
             dest: 404.html
-          - source: android-chrome-192x192.png
-            dest: android-chrome-192x192.png
-          - source: android-chrome-512x512.png
-            dest: android-chrome-512x512.png
-          - source: apple-touch-icon.png
-            dest: apple-touch-icon.png
-          - source: favicon-16x16.png
-            dest: favicon-16x16.png
-          - source: favicon-32x32.png
-            dest: favicon-32x32.png
-          - source: favicon.ico
-            dest: favicon.ico
           - source: Gemfile
             dest: Gemfile
           - source: Gemfile.lock
