@@ -4,6 +4,8 @@ group:
             dest: _includes/
           - source: _layouts/
             dest: _layouts/
+          - source: _plugins/expand_nested_variable_filter.rb
+            dest: _plugins/expand_nested_variable_filter.rb
           - source: assets/_src/js/
             dest: assets/_src/js/
           - source: assets/_src/sass/
