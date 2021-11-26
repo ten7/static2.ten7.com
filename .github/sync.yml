@@ -46,3 +46,5 @@ group:
             dest: webpack.config.js
       repos: |
           ten7/computingforcovid.ten7.com@develop
+          ten7/tractorbeam.ten7.com@develop
+          ten7/flightdeck.ten7.com@develop
